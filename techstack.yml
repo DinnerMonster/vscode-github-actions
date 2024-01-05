@@ -2,7 +2,7 @@ repo_name: DinnerMonster/vscode-github-actions
 report_id: 6252dc4d6e8d3d94deac4c4e6a3b2011
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T16:27:47+00:00'
+timestamp: '2024-01-05T08:16:53+00:00'
 requested_by: KetchupOnMyKetchup
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/package.json
   detection_source: package.json
   last_updated_by: Christopher Schleiden
   last_updated_on: 2019-12-19 02:31:46.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/.github/workflows/build-preview.yml
   detection_source: ".github/workflows/build-preview.yml"
   last_updated_by: Jonathan Tamsut
   last_updated_on: 2023-04-21 19:14:03.000000000 Z
@@ -82,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/package.json
   detection_source: package.json
   last_updated_by: Josh Gross
   last_updated_on: 2023-01-25 21:07:32.000000000 Z
@@ -108,6 +114,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/.vscode/tasks.json
   detection_source: ".vscode/tasks.json"
   last_updated_by: Christopher Schleiden
   last_updated_on: 2019-12-19 02:31:46.000000000 Z
@@ -133,6 +140,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/package.json
   detection_source: package.json
   last_updated_by: Christopher Schleiden
   last_updated_on: 2019-12-19 02:31:46.000000000 Z
@@ -144,6 +152,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Social Media Tools
   image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/package.json
   detection_source: package.json
   last_updated_by: Christopher Schleiden
   last_updated_on: 2023-01-21 01:59:12.000000000 Z
@@ -155,6 +164,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions/blob/main/release-notes.txt
   detection_source: release-notes.txt
   last_updated_by: Felipe Suero
   last_updated_on: 2023-05-02 16:09:12.000000000 Z
@@ -167,6 +177,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DinnerMonster/vscode-github-actions
   detection_source: Repo Metadata
 - name: "@octokit/rest"
   description: GitHub REST API client for Node.js
