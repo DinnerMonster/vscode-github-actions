@@ -2,7 +2,7 @@ repo_name: DinnerMonster/vscode-github-actions
 report_id: 6252dc4d6e8d3d94deac4c4e6a3b2011
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:16:53+00:00'
+timestamp: '2024-02-29T19:10:27+00:00'
 requested_by: KetchupOnMyKetchup
 provider: github
 branch: main
@@ -92,7 +92,7 @@ tools:
   last_updated_by: Josh Gross
   last_updated_on: 2023-01-25 21:07:32.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.5
   license: MIT
